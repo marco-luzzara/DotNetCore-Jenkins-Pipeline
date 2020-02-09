@@ -1,0 +1,20 @@
+{
+    "slnConfiguration": "Release",
+    "environment": "Sviluppo",
+    "doesManuallyIncrementMajor": false,
+    "packageFolder": "Package",
+    "deployFolder": "Deploy",
+    "repoUrl": "https://gitrepo",
+    "testResultsPath": "./TestResults",
+    "versioningServerEndpoint": "ip:port",
+    "internalRepoUrl": "http://nugetserver",
+    "prjManagePortalUrl": "https://prjmanageportal",
+    "basePathOnBinaryRepo": "basepath",
+    "internalProjects": [
+        "internalProject"
+    ],
+    "deployProjects": [
+        "deployProject"
+    ],
+    "artifactoryServerId": "artifactory_00"
+}

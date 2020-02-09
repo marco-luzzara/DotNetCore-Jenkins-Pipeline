@@ -1,0 +1,8 @@
+{
+    "apiKey": "apikey",
+    "credentialsId": "credentialsid",
+    "binaryRepoUser": "user",
+    "binaryRepoPwd": "pwd",
+    "jenkinsUserName": "jenkins",
+    "jenkinsUserPwd": "jenkinspwd"
+}
